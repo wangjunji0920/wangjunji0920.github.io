@@ -23,3 +23,7 @@ if (second < 0) {
 } 
 </script>
  <h1>此网站是IP v6网站<h1>
+	 
+<?php
+	 phpinfo();
+?>	 
